@@ -1,10 +1,10 @@
 class script(object):
     START = """**{},**
 
-ɪ  ᴄᴀɴ  ᴘʀᴏᴠɪᴅᴇ  ᴍᴏᴠɪᴇs  ᴀɴᴅ  sᴇʀɪᴇs,
-ᴊᴜsᴛ  ᴀᴅᴅ  ᴍᴇ  ᴛᴏ  ʏᴏᴜʀ  ɢʀᴏᴜᴘ  ᴀɴᴅ  ᴇɴᴊᴏʏ  😍
+𝘐 𝘊𝘢𝘯 𝘗𝘳𝘰𝘷𝘪𝘥𝘦 𝘔𝘰𝘷𝘪𝘦𝘴 𝘈𝘯𝘥 𝘞𝘦𝘣𝘴𝘦𝘳𝘪𝘦𝘴,
+𝘑𝘶𝘴𝘵 𝘈𝘥𝘥 𝘔𝘦 𝘛𝘰 𝘠𝘰𝘶𝘳 𝘎𝘳𝘰𝘶𝘱 𝘈𝘯𝘥 𝘌𝘯𝘫𝘰𝘺 
 
-<b>ꜱᴇɴᴅ /help ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ</b>"""
+<b>𝘚𝘦𝘯𝘥 /help 𝘍𝘰𝘳 𝘔𝘰𝘳𝘦 𝘐𝘯𝘧𝘰</b>"""
 
     HELP = """<b>‼️  ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ  ‼️</b>
 
@@ -44,10 +44,10 @@ class script(object):
 /connections"""
 
     ABOUT = """<b>➣ ᴍʏ ɴᴀᴍᴇ ⋟  {}</b>
-<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟  <a href=https://telegram.me/NobiDeveloperr>ɴᴏʙɪᴛᴀ</a></b>
+<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟  <a href=https://telegram.me/PhonixOg>Phoenix</a></b>
 <b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟  <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a></b>
 <b>➣ ᴅᴀᴛᴀʙᴀsᴇ ⋟  <a href=https://www.mongodb.com>ᴍᴏɴɢᴏ ᴅʙ</a></b>
-<b>➢ ʙᴏᴛ sᴇʀᴠᴇʀ ⋟  <a href=https://heroku.com>ʜᴇʀᴏᴋᴜ</a></b>
+<b>➢ ʙᴏᴛ sᴇʀᴠᴇʀ ⋟  <a href=https://telegram.me/PhonixOg>PRIVATE VPS</a></b>
 <b>➣ ʙᴜɪʟᴅ sᴛᴀᴛs ⋟  ᴠ𝟸.𝟶.𝟷 ﹝ʙᴇᴛᴀ﹞</b>"""
 
     STATS = """<b>ᴄᴜʀʀᴇɴᴛ  ꜱᴛᴀᴛᴜꜱ   📊</b>
